@@ -1,6 +1,6 @@
 Cripto
-ffmpeg
 pycryptodome
 rich
 aiohttp
 tqdm
+ffmpeg
