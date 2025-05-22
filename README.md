@@ -1,19 +1,16 @@
-```INSTALASI```
+# Instalasi
+**NOTE: PROJECT SAAT INI MASIH DALAM PENGEMBANGAN.**
 
-```--- Termux ----```
+```bash
+$ pkg install python3
 
-```$ pkg install python3```
+$ pkg install git
 
-```$ pkg install git```
+$ git clone https://github.com/RKBWMODS/BannedIg
 
-```$ git clone https://github.com/RKBWMODS/BannedIg```
+$ cd BannedIg
 
-```$ cd BannedIg```
+$ pip install -r requirement.txt
 
-```$ pip install -r requirement.txt```
-
-```$ python3 bannedig.py```
-
-```NOTE```
-SAAT INI MASIH MODE DEMO!
-UPDATE AKAN SEGERA DAANG MOHON BERSABAR!
+$ python3 bannedig.py
+```
