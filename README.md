@@ -1,9 +1,8 @@
 # SPAM REPORT IG
 **NOTE: PROJECT SAAT INI MASIH DALAM PENGEMBANGAN.**
 
-**💥TERMUX AND CMD💥**
+**💥TERMUX AND CMD RUNING💥**
 
-**💦FULL INSTALASI💦**
 
 ```bash
 $ pkg install python3
